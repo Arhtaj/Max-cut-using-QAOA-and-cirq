@@ -1,4 +1,5 @@
 By Thomas Mikhail, 2020
+####################################################################################
 The max cut problem is quite an easy simple problem to conceptualize. Given a
 graph of N nodes and M edges between them, how can we cut it into two sets
 of nodes such that the total weight of the cut edges is maximum. People are
@@ -23,3 +24,4 @@ likely, not inevitable, and as such, the circuit is run several times, and resul
 are compared by the classical computer to find the best answer. Despite there
 being a general randomness to results, it is far more likely to find the correct answer,
 or something closer to it than a purely random function.
+#######################################################################################
