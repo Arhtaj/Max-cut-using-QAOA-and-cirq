@@ -1,6 +1,6 @@
 By Thomas Mikhail, 2020
 ####################################################################################
-The max cut problem is quite an easy simple problem to conceptualize. Given a
+The max cut problem is quite a simple problem to conceptualize. Given a
 graph of N nodes and M edges between them, how can we cut it into two sets
 of nodes such that the total weight of the cut edges is maximum. People are
 generally successful at solving the problem visually, perhaps only running into
